@@ -1,0 +1,16 @@
+/* Ensures full height and no margin */
+body, html, #root {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Optional: smoother font and background */
+  body {
+    font-family: 'Segoe UI', sans-serif;
+    background: #f5f7fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
