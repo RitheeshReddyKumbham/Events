@@ -11,9 +11,9 @@ Currently, two official plugins are available:
 
 If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-# 🎉 EventSphere
+# 🎉 Event Website
 
-EventSphere is a modern, single-page React app for discovering upcoming and recommended events — with user authentication handled locally using `localStorage`. No backend is required.
+Event Website is a modern, single-page React app for discovering upcoming and recommended events — with user authentication handled locally using `localStorage`. No backend is required.
 
 ---
 
