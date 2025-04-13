@@ -10,7 +10,7 @@ function RecEventCard(props) {
   // Format distance in kilometers
   const formatdistanceKm = (distanceKm / 1000).toFixed(2);
 
-  // Format date nicely
+  // Format date
   const formatDate = (dateString) => {
     const date = new Date(dateString);
     const options = { year: 'numeric', month: 'long', day: 'numeric' };

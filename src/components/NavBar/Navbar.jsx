@@ -1,5 +1,4 @@
 import React from 'react';
-import ReactSelect from 'react-select';
 import { IoSearch } from "react-icons/io5";
 import { FaHeart } from "react-icons/fa";
 import { PiListBold } from "react-icons/pi";
